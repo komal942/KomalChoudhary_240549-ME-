@@ -30,3 +30,5 @@ print("\n--- Result ---")
 print(f"Total Marks: {total}/500")
 print(f"Percentage: {percentage:.2f}%")
 print(f"Grade: {grade}")
+
+print("improve next time")
